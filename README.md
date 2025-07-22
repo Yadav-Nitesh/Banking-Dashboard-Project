@@ -39,7 +39,7 @@ To create a comprehensive dashboard for banking executives to:
 
 ## 📁 Repository Contents
 
-- `Banking Dashboard (2025).pbix`: Main Power BI file
+- `Banking Dashboard .pbix`: Main Power BI file
 - `screenshots/`: Sample visuals from the dashboard
 - `README.md`: Project documentation
 
